@@ -9,6 +9,7 @@ Atualmente estou focado em dominar o ecossistema Web moderno. Estou cursando **D
 - **Linguagens:** HTML5, CSS3, JavaScript (ES6+) e TypeScript.
 - **Ferramentas:** Git, GitHub, VS Code.
 - **Foco Atual:** Desenvolvimento Dinâmico, Manipulação de DOM e Consumo de APIs.
+- AINDA NÃO POSSUO PROJETOS, FUTURAMENTE IREI DISPONIBILIZA-LOS AQUI.
 
 ### 📊 Meus Projetos Principais em Python
 - **[Gestão de Estoque](https://github.com/FranciscoDevfuture/Gestao_Estoque_Unifecaf):** Sistema focado em regras de negócio para controle de produtos (em constante evolução com TS).
