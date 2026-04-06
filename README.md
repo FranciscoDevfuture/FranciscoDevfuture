@@ -21,7 +21,7 @@ Atualmente estou focado em dominar o ecossistema Web moderno. Estou cursando **D
 - Criando interfaces responsivas e dinâmicas.
 
 ### 📫 Como me encontrar:
-- **LinkedIn:** [Link para seu LinkedIn aqui]
+- **LinkedIn:** [https://www.linkedin.com/in/francisco-santos-3b4504152/]
 - **E-mail:** [franco.jose.santos@gmail.com]
 -  **Whatsapp:** [11-95497-0424]
 
