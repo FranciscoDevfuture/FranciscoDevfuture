@@ -1,16 +1,28 @@
-## Hi there 👋
+# Olá, eu sou o Francisco! 👋
 
-<!--
-**FranciscoDevfuture/FranciscoDevfuture** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Desenvolvedor Pyhton em Formação
+## Desenvolvedor Front-end em Formação | JS & TypeScript
 
-Here are some ideas to get you started:
+Atualmente estou focado em dominar o ecossistema Web moderno. Estou cursando **Desvendando A Web (HTML, CSS, JavaScript e TypeScript)** e buscando minha primeira oportunidade como Desenvolvedor Júnior.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Tecnologias e Ferramentas
+- **Linguagens:** HTML5, CSS3, JavaScript (ES6+) e TypeScript.
+- **Ferramentas:** Git, GitHub, VS Code.
+- **Foco Atual:** Desenvolvimento Dinâmico, Manipulação de DOM e Consumo de APIs.
+
+### 📊 Meus Projetos Principais em Python
+- **[Gestão de Estoque](https://github.com/FranciscoDevfuture/Gestao_Estoque_Unifecaf):** Sistema focado em regras de negócio para controle de produtos (em constante evolução com TS).
+- **[Automação de Contratos](https://github.com/FranciscoDevfuture/Automacao_Contratos):** Projeto focado em automoção de processos.
+
+### 🌱 No que estou trabalhando agora?
+-HTML, CSS, Javascript e Typescript
+- Aprofundando em Tipagem Estática com TypeScript.
+- Criando interfaces responsivas e dinâmicas.
+
+### 📫 Como me encontrar:
+- **LinkedIn:** [Link para seu LinkedIn aqui]
+- **E-mail:** [franco.jose.santos@gmail.com]
+-  **Whatsapp:** [11-95497-0424]
+
+---
+*“A persistência é o caminho do êxito.”*
